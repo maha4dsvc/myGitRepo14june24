@@ -5,3 +5,8 @@
 5th java line of coode by Dev A
 
 Completed manager work
+1st day of line of code completed
+2nd day of line of code completed 
+3rd day of line of code completed 
+4th day of line of code completed 
+5th day of line of code completed
